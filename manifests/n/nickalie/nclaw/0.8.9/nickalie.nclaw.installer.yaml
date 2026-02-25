@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: nclaw.exe
         PortableCommandAlias: nclaw
     InstallerUrl: https://github.com/nickalie/nclaw/releases/download/v0.8.9/nclaw_0.8.9_windows_amd64.zip
-    InstallerSha256: 547684bf6b30b606b746417d59dfa71af38a7aff0f0c1acce90bf5171781b03d
+    InstallerSha256: 13cd66b3de7b4ea1957151045291f3d5e535090e0d300a3b5e9ec26ec958e35a
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.10.0
